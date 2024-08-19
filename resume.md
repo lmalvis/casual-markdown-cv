@@ -11,7 +11,8 @@
 <body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block';">
 
 <span style="float:right;padding:6px"> 
-  [![Email](https://img.icons8.com/ios-glyphs/30/new-post.png)](mailto:laurenalvis@gmail.com) <br> mobile: +1 210 573 9328 <br> 
+  [![Email](https://img.icons8.com/ios-glyphs/30/new-post.png)](mailto:laurenalvis@gmail.com) <br> 
+  mobile: +1 210 573 9328 <br> 
   [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/laurenalvis)
 </span>
 
@@ -19,10 +20,9 @@
 
 **Quantitative Researcher**
 
-**Contact Information**
-- Email: lauren@example.com
-- Phone: +1 555-555-5555
-- LinkedIn: [linkedin.com/in/lauren](https://www.linkedin.com/in/lauren)
+## Contact Information
+[![Email](https://img.icons8.com/ios-glyphs/30/new-post.png)](mailto:lauren@example.com)
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/lauren)
 
 ## Summary
 Experienced Applied Quantitative Statistician and Lifespan Developmental Psychologist, specializing in data analysis, behavioral research, and survey methodology. Proficient in using R for statistical modeling, with a foundational understanding of Python and SQL. Skilled in translating complex behavioral data into actionable insights and collaborating with cross-functional teams to enhance user experience. Eager to apply my expertise in quantitative research and behavioral analysis to drive strategic decision-making and contribute to Pinterest’s growth by enhancing the Pinner experience.
