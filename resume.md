@@ -1,48 +1,69 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
+<!DOCTYPE html>
+<title>Resume</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.css">
+<script src="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.js"></script>
+<style>  
+  body { line-height:1.5; margin:auto; padding:3px; max-width:1024px; display:none; FONT-FAMILY:ARIAL; }
+  h1  { font-size:200%; padding:16px; border:1px solid lightgrey; BACKGROUND:STEELBLUE; COLOR:WHITE }
+  h2  { border-bottom:1px solid grey; padding:2px; COLOR:STEELBLUE }
+</style>
+<body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block';">
 
 <span style="float:right;padding:6px"> 
-  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
+  [![Email](https://img.icons8.com/ios-glyphs/30/new-post.png)](mailto:laurenalvis@gmail.com) <br> mobile: +1 210 573 9328 <br> 
+  [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/laurenalvis)
 </span>
 
-# Casualwriter  
+# Lauren Alvis
 
-## Executive Summary
+**Quantitative Researcher**
 
-* 10 years project/team management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
+**Contact Information**
+- Email: lauren@example.com
+- Phone: +1 555-555-5555
+- LinkedIn: [linkedin.com/in/lauren](https://www.linkedin.com/in/lauren)
 
-## Working Experience
+## Summary
+Experienced Applied Quantitative Statistician and Lifespan Developmental Psychologist, specializing in data analysis, behavioral research, and survey methodology. Proficient in using R for statistical modeling, with a foundational understanding of Python and SQL. Skilled in translating complex behavioral data into actionable insights and collaborating with cross-functional teams to enhance user experience. Eager to apply my expertise in quantitative research and behavioral analysis to drive strategic decision-making and contribute to Pinterest’s growth by enhancing the Pinner experience.
 
-#### Current Company (Project Manager, 2015/08 - present) 
+## Skills
+- **Quantitative Research & Behavioral Analysis**: Survey Methodology, Behavioral Analysis, Statistical Modeling, Measurement Development, Data Visualization, User Experience Research
+- **Data Tools & Analysis**: R, Python, SQL, AWS, Shiny, Tableau, ggplot2, RMarkdown
+- **Collaboration & Project Management**: Cross-functional teamwork, mentoring junior researchers, guiding research strategy, presenting to senior leadership
+- **Communication Skills**: Verbal and written presentation, report preparation, stakeholder engagement
 
-* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
-* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
+## Work Experience
+### Senior Director of Research | Trauma and Grief Center, Meadows Mental Health Policy Institute | Houston, TX  
+**2023 – Present**
+- **Led the design and execution** of quantitative research projects, resulting in a 15% increase in positive client outcomes.
+- **Developed and analyzed surveys**, contributing to a 20% increase in participant satisfaction.
+- **Collaborated with cross-functional teams** (data scientists, clinicians, UX designers) to translate research insights into strategic decisions, improving service delivery and user satisfaction.
+- Created data dashboards, streamlining reporting processes and reducing manual effort by 30%, facilitating real-time decision-making.
+- Presented research findings and strategic recommendations to senior leadership and external stakeholders, influencing policy decisions and the implementation of new user-centric metrics across programs.
 
-#### Second Company (System Analyst, 2011/06 - 2015/07) 
+### Consultant - Data Analyst & Quality Improvement Advisor | Self-Employed  
+**2020 – Present**
+- Spearheaded EHR system set up for a startup clinic, improving UI/UX and optimizing data capture and workflow efficiency through multidisciplinary collaboration.
+- Designed and implemented performance measurement tools and dashboards, providing actionable insights that streamlined operations and enhanced user experience across organizations.
+- Conducted advanced statistical analysis to identify trends and guide strategic decision-making, contributing to improved program performance and user outcomes.
+- Automated data processes and reporting, reducing manual effort and enabling quicker decision-making, resulting in improved program performance and data accuracy.
 
-* Led team of 5 for application development
-* Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
+## Education
+- **Ph.D. Life-Span Developmental Psychology** | West Virginia University, WV  <br>
+**May 2019**  <br>
+Dissertation: *Distinguishing beliefs about social inequality: Associations among dimensions of critical consciousness*
 
-#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
+### M.S. Life-Span Developmental Psychology | West Virginia University, WV  
+**May 2016** 
+Thesis: *Helping others vs. fixing the system: Distinguishing facets of adolescents’ civic reasoning*
 
-* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
+### B.A. Psychology | The University of Alabama, AL  
+**May 2014**
 
-## Projects: 
-
-* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
-* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
-
-## Education & Qualifications
-
-* AWS Certification (2021/12)
-* Oracle Certified Professional (2020/02)
-* Project Management Professional (PMP) (2018/10)
-* Bachelor of Computer Science (Sep 2004)
-* The Chinese University of Hong Kong (2000 - 2004)
-
-## Misc. Information
-
-* Languages: English (good), Cantonese (fluent/native), Mandarin (good)
-* Availability: 1 month's notice
+## Select Publications
+1. Alvis, L., Oosterhoff, B., Giang, C., & Kaplow, J. B. (2023). A Pilot open trial of an individualized adaptation of Trauma and Grief Component Therapy (TGCT) in children and adolescents. Child & Youth Care Forum. https://doi.org/10.1007/s10566-023-09776-3
+2. Alvis, L., Oosterhoff, B., Hoppe, R., Giang, C., & Kaplow, J. B. (2024). Measurement invariance of the Grief Facilitation Inventory with respect to youth gender, race, ethnicity, and age. Death Studies. https://doi.org/10.1080/07481187.2024.2355482
+3. Oosterhoff, B., Alvis, L., Steinberg, A. M., Pynoos, R. S., & Kaplow, J. B. (2023). Validation of the four-item very brief UCLA PTSD Reaction Index screening tool for children and adolescents. Psychological Trauma: Theory, Research, Practice, and Policy. https://doi.org/10.1037/tra0001580
+4. Alvis, L., Douglas, R., Oosterhoff, B., Gaylord-Harden, N., & Kaplow, J. B. (2023). Identity-based bullying and mental health among Black and Latino youth: The moderating role of emotional suppression. Journal of Traumatic Stress. https://doi.org/10.1002/jts.22927
+5. Wray-Lake, L., Alvis, L., Plummer, J., Shubert, J. S., & Syvertsen, A. K. (2022). Adolescents’ developing awareness of inequality: Racial and ethnic differences in trajectories. Child Development. https://doi.org/10.1111/cdev.13870
