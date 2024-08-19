@@ -33,7 +33,6 @@ Experienced Applied Quantitative Statistician and Lifespan Developmental Psychol
 - **Communication Skills**: Verbal and written presentation, report preparation, stakeholder engagement
   
 ## Work Experience
-
 **Senior Director of Research**  
 *Trauma and Grief Center, Meadows Mental Health Policy Institute | Houston, TX*  
 **2023 – Present**  
@@ -51,19 +50,18 @@ Experienced Applied Quantitative Statistician and Lifespan Developmental Psychol
 - **Conducted advanced statistical analysis** to identify trends and guide strategic decision-making, contributing to improved program performance and user outcomes.
 - **Automated data processes and reporting**, reducing manual effort and enabling quicker decision-making, resulting in improved program performance and data accuracy.
 
-
 ## Education
 
-**Ph.D. Life-Span Developmental Psychology**  
-West Virginia University, WV | *May 2019*  
-Dissertation: *Distinguishing beliefs about social inequality: Associations among dimensions of critical consciousness*
+**Ph.D. Life-Span Developmental Psychology**  <br>
+*West Virginia University, WV* | **May 2019**<br>
+Dissertation: Distinguishing beliefs about social inequality: Associations among dimensions of critical consciousness
 
-**M.S. Life-Span Developmental Psychology**  
-West Virginia University, WV* | *May 2016*  
-Thesis: *Helping others vs. fixing the system: Distinguishing facets of adolescents’ civic reasoning*
+**M.S. Life-Span Developmental Psychology**  <br>
+*West Virginia University, WV* | **May 2016**  <br>
+Thesis: Helping others vs. fixing the system: Distinguishing facets of adolescents’ civic reasoning
 
-**B.A. Psychology**  
-The University of Alabama, AL | *May 2014*
+**B.A. Psychology**  <br>
+*The University of Alabama, AL* | **May 2014**
 
 ## Select Publications
 1. **Alvis, L.**, Oosterhoff, B., Giang, C., & Kaplow, J. B. (2023). A Pilot open trial of an individualized adaptation of Trauma and Grief Component Therapy (TGCT) in children and adolescents. *Child & Youth Care Forum.* https://doi.org/10.1007/s10566-023-09776-3
