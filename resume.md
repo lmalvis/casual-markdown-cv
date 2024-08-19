@@ -4,26 +4,26 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.css">
 <script src="https://cdn.jsdelivr.net/gh/casualwriter/casual-markdown/dist/casual-markdown.js"></script>
 <style>  
-  body { line-height:1.5; margin:auto; padding:3px; max-width:1024px; display:none; FONT-FAMILY:ARIAL; }
-  h1  { font-size:200%; padding:16px; border:1px solid lightgrey; BACKGROUND:STEELBLUE; COLOR:WHITE }
-  h2  { border-bottom:1px solid grey; padding:2px; COLOR:STEELBLUE }
+  body { line-height:1.5; margin:auto; padding:3px; max-width:1024px; display:none; FONT-FAMILY:"Segoe UI",ARIAL; }
+  h1  { font-size:200%; padding:16px; border:1px solid lightgrey; BACKGROUND:#f0f0f0; }
+  h2  { border-bottom:1px solid grey; padding:2px }
 </style>
 <body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block';">
 
-
-# Lauren Alvis
-
-**Quantitative Researcher**
-
-## Contact Information
-<span style="float:right;padding:6px"> 
-[![Email](https://img.icons8.com/ios-glyphs/30/new-post.png)](mailto:lauren@example.com) laurenalvis@gmail.com <br>
-[![Phone](https://img.icons8.com/ios-glyphs/30/phone--v1.png)] +1 210-573-9328 <br>
-[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/lauren) \laurenalvis
-</span>
+<div style="width: 100%; overflow: hidden;">
+  <div style="float: left;">
+    <h1>Lauren Alvis</h1>
+    <p>Quantitative Researcher</p>
+  </div>
+  <div style="float:right;padding:6px;text-align:right;">
+    [![Email](https://img.icons8.com/ios-glyphs/30/new-post.png)](mailto:lauren@example.com) <span style="display: inline-block; vertical-align: top; line-height: 30px;">laurenalvis@gmail.com</span> <br>
+    ![Phone](https://img.icons8.com/ios-glyphs/30/phone--v1.png) <span style="display: inline-block; vertical-align: top; line-height: 30px;">+1 210-573-9328</span> <br>
+    <a href="https://www.linkedin.com/in/laurenalvis"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="35" height="35" style="vertical-align: top;"></a> <span style="display: inline-block; vertical-align: top; line-height: 30px;">laurenalvis</span>
+  </div>
+</div>
 
 ## Summary
-Experienced Applied Quantitative Statistician and Lifespan Developmental Psychologist, specializing in data analysis, behavioral research, and survey methodology. Proficient in using R for statistical modeling, with a foundational understanding of Python and SQL. Skilled in translating complex behavioral data into actionable insights and collaborating with cross-functional teams to enhance user experience. Eager to apply my expertise in quantitative research and behavioral analysis to drive strategic decision-making and contribute to Pinterest’s growth by enhancing the Pinner experience.
+Experienced Applied Quantitative Statistician and Lifespan Developmental Psychologist, specializing in data analysis, behavioral research, and survey methodology. Proficient in using R for statistical modeling, with a foundational understanding of Python and SQL. Skilled in translating complex behavioral data into actionable insights and collaborating with cross-functional teams to enhance user experience. Eager to apply my expertise in quantitative research and behavioral analysis to drive strategic decision-making and contribute to Pinterestâ€™s growth by enhancing the Pinner experience.
 
 ## Skills
 - **Quantitative Research & Behavioral Analysis**: Survey Methodology, Behavioral Analysis, Statistical Modeling, Measurement Development, Data Visualization, User Experience Research
@@ -33,7 +33,7 @@ Experienced Applied Quantitative Statistician and Lifespan Developmental Psychol
 
 ## Work Experience
 ### Senior Director of Research | Trauma and Grief Center, Meadows Mental Health Policy Institute | Houston, TX  
-**2023 – Present**
+**2023 â€“ Present**
 - **Led the design and execution** of quantitative research projects, resulting in a 15% increase in positive client outcomes.
 - **Developed and analyzed surveys**, contributing to a 20% increase in participant satisfaction.
 - **Collaborated with cross-functional teams** (data scientists, clinicians, UX designers) to translate research insights into strategic decisions, improving service delivery and user satisfaction.
@@ -41,7 +41,7 @@ Experienced Applied Quantitative Statistician and Lifespan Developmental Psychol
 - Presented research findings and strategic recommendations to senior leadership and external stakeholders, influencing policy decisions and the implementation of new user-centric metrics across programs.
 
 ### Consultant - Data Analyst & Quality Improvement Advisor | Self-Employed  
-**2020 – Present**
+**2020 â€“ Present**
 - Spearheaded EHR system set up for a startup clinic, improving UI/UX and optimizing data capture and workflow efficiency through multidisciplinary collaboration.
 - Designed and implemented performance measurement tools and dashboards, providing actionable insights that streamlined operations and enhanced user experience across organizations.
 - Conducted advanced statistical analysis to identify trends and guide strategic decision-making, contributing to improved program performance and user outcomes.
@@ -54,7 +54,7 @@ Dissertation: *Distinguishing beliefs about social inequality: Associations amon
 
 ### M.S. Life-Span Developmental Psychology | West Virginia University, WV  
 **May 2016** 
-Thesis: *Helping others vs. fixing the system: Distinguishing facets of adolescents’ civic reasoning*
+Thesis: *Helping others vs. fixing the system: Distinguishing facets of adolescentsâ€™ civic reasoning*
 
 ### B.A. Psychology | The University of Alabama, AL  
 **May 2014**
@@ -64,4 +64,4 @@ Thesis: *Helping others vs. fixing the system: Distinguishing facets of adolesce
 2. Alvis, L., Oosterhoff, B., Hoppe, R., Giang, C., & Kaplow, J. B. (2024). Measurement invariance of the Grief Facilitation Inventory with respect to youth gender, race, ethnicity, and age. Death Studies. https://doi.org/10.1080/07481187.2024.2355482
 3. Oosterhoff, B., Alvis, L., Steinberg, A. M., Pynoos, R. S., & Kaplow, J. B. (2023). Validation of the four-item very brief UCLA PTSD Reaction Index screening tool for children and adolescents. Psychological Trauma: Theory, Research, Practice, and Policy. https://doi.org/10.1037/tra0001580
 4. Alvis, L., Douglas, R., Oosterhoff, B., Gaylord-Harden, N., & Kaplow, J. B. (2023). Identity-based bullying and mental health among Black and Latino youth: The moderating role of emotional suppression. Journal of Traumatic Stress. https://doi.org/10.1002/jts.22927
-5. Wray-Lake, L., Alvis, L., Plummer, J., Shubert, J. S., & Syvertsen, A. K. (2022). Adolescents’ developing awareness of inequality: Racial and ethnic differences in trajectories. Child Development. https://doi.org/10.1111/cdev.13870
+5. Wray-Lake, L., Alvis, L., Plummer, J., Shubert, J. S., & Syvertsen, A. K. (2022). Adolescentsâ€™ developing awareness of inequality: Racial and ethnic differences in trajectories. Child Development. https://doi.org/10.1111/cdev.13870
