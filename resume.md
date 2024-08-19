@@ -30,38 +30,43 @@ Experienced Applied Quantitative Statistician and Lifespan Developmental Psychol
 - **Data Tools & Analysis**: R, Python, SQL, AWS, Shiny, Tableau, ggplot2, RMarkdown
 - **Collaboration & Project Management**: Cross-functional teamwork, mentoring junior researchers, guiding research strategy, presenting to senior leadership
 - **Communication Skills**: Verbal and written presentation, report preparation, stakeholder engagement
-
+  
 ## Work Experience
-### Senior Director of Research | Trauma and Grief Center, Meadows Mental Health Policy Institute | Houston, TX  
-**2023 – Present**
+
+**Senior Director of Research**  
+*Trauma and Grief Center, Meadows Mental Health Policy Institute | Houston, TX*  
+**2023 – Present**  
 - **Led the design and execution** of quantitative research projects, resulting in a 15% increase in positive client outcomes.
 - **Developed and analyzed surveys**, contributing to a 20% increase in participant satisfaction.
 - **Collaborated with cross-functional teams** (data scientists, clinicians, UX designers) to translate research insights into strategic decisions, improving service delivery and user satisfaction.
-- Created data dashboards, streamlining reporting processes and reducing manual effort by 30%, facilitating real-time decision-making.
-- Presented research findings and strategic recommendations to senior leadership and external stakeholders, influencing policy decisions and the implementation of new user-centric metrics across programs.
+- **Created data dashboards**, streamlining reporting processes and reducing manual effort by 30%, facilitating real-time decision-making.
+- **Presented research findings** and strategic recommendations to senior leadership and external stakeholders, influencing policy decisions and the implementation of new user-centric metrics across programs.
 
-### Consultant - Data Analyst & Quality Improvement Advisor | Self-Employed  
-**2020 – Present**
-- Spearheaded EHR system set up for a startup clinic, improving UI/UX and optimizing data capture and workflow efficiency through multidisciplinary collaboration.
-- Designed and implemented performance measurement tools and dashboards, providing actionable insights that streamlined operations and enhanced user experience across organizations.
-- Conducted advanced statistical analysis to identify trends and guide strategic decision-making, contributing to improved program performance and user outcomes.
-- Automated data processes and reporting, reducing manual effort and enabling quicker decision-making, resulting in improved program performance and data accuracy.
+**Consultant - Data Analyst & Quality Improvement Advisor**  
+*Self-Employed*  
+**2020 – Present**  
+- **Spearheaded EHR system set-up** for a startup clinic, improving UI/UX and optimizing data capture and workflow efficiency through multidisciplinary collaboration.
+- **Designed and implemented performance measurement tools** and dashboards, providing actionable insights that streamlined operations and enhanced user experience across organizations.
+- **Conducted advanced statistical analysis** to identify trends and guide strategic decision-making, contributing to improved program performance and user outcomes.
+- **Automated data processes and reporting**, reducing manual effort and enabling quicker decision-making, resulting in improved program performance and data accuracy.
+
 
 ## Education
-- **Ph.D. Life-Span Developmental Psychology** | West Virginia University, WV  <br>
-**May 2019**  <br>
+
+**Ph.D. Life-Span Developmental Psychology**  
+West Virginia University, WV | *May 2019*  
 Dissertation: *Distinguishing beliefs about social inequality: Associations among dimensions of critical consciousness*
 
-### M.S. Life-Span Developmental Psychology | West Virginia University, WV  
-**May 2016** 
+**M.S. Life-Span Developmental Psychology**  
+West Virginia University, WV* | *May 2016*  
 Thesis: *Helping others vs. fixing the system: Distinguishing facets of adolescents’ civic reasoning*
 
-### B.A. Psychology | The University of Alabama, AL  
-**May 2014**
+**B.A. Psychology**  
+The University of Alabama, AL | *May 2014*
 
 ## Select Publications
-1. Alvis, L., Oosterhoff, B., Giang, C., & Kaplow, J. B. (2023). A Pilot open trial of an individualized adaptation of Trauma and Grief Component Therapy (TGCT) in children and adolescents. Child & Youth Care Forum. https://doi.org/10.1007/s10566-023-09776-3
-2. Alvis, L., Oosterhoff, B., Hoppe, R., Giang, C., & Kaplow, J. B. (2024). Measurement invariance of the Grief Facilitation Inventory with respect to youth gender, race, ethnicity, and age. Death Studies. https://doi.org/10.1080/07481187.2024.2355482
-3. Oosterhoff, B., Alvis, L., Steinberg, A. M., Pynoos, R. S., & Kaplow, J. B. (2023). Validation of the four-item very brief UCLA PTSD Reaction Index screening tool for children and adolescents. Psychological Trauma: Theory, Research, Practice, and Policy. https://doi.org/10.1037/tra0001580
-4. Alvis, L., Douglas, R., Oosterhoff, B., Gaylord-Harden, N., & Kaplow, J. B. (2023). Identity-based bullying and mental health among Black and Latino youth: The moderating role of emotional suppression. Journal of Traumatic Stress. https://doi.org/10.1002/jts.22927
-5. Wray-Lake, L., Alvis, L., Plummer, J., Shubert, J. S., & Syvertsen, A. K. (2022). Adolescents’ developing awareness of inequality: Racial and ethnic differences in trajectories. Child Development. https://doi.org/10.1111/cdev.13870
+1. **Alvis, L.**, Oosterhoff, B., Giang, C., & Kaplow, J. B. (2023). A Pilot open trial of an individualized adaptation of Trauma and Grief Component Therapy (TGCT) in children and adolescents. *Child & Youth Care Forum.* https://doi.org/10.1007/s10566-023-09776-3
+2. **Alvis, L.**, Oosterhoff, B., Hoppe, R., Giang, C., & Kaplow, J. B. (2024). Measurement invariance of the Grief Facilitation Inventory with respect to youth gender, race, ethnicity, and age. *Death Studies.* https://doi.org/10.1080/07481187.2024.2355482
+3. Oosterhoff, B., **Alvis, L.**, Steinberg, A. M., Pynoos, R. S., & Kaplow, J. B. (2023). Validation of the four-item very brief UCLA PTSD Reaction Index screening tool for children and adolescents. *Psychological Trauma: Theory, Research, Practice, and Policy.* https://doi.org/10.1037/tra0001580
+4. **Alvis, L.**, Douglas, R., Oosterhoff, B., Gaylord-Harden, N., & Kaplow, J. B. (2023). Identity-based bullying and mental health among Black and Latino youth: The moderating role of emotional suppression. *Journal of Traumatic Stress.* https://doi.org/10.1002/jts.22927
+5. Wray-Lake, L., **Alvis, L.**, Plummer, J., Shubert, J. S., & Syvertsen, A. K. (2022). Adolescents’ developing awareness of inequality: Racial and ethnic differences in trajectories. *Child Development.* https://doi.org/10.1111/cdev.13870
