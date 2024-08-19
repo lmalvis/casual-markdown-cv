@@ -9,15 +9,16 @@
   h2  { border-bottom:1px solid grey; padding:2px }
 </style>
 <body onload="document.body.innerHTML=md.html(document.body.innerHTML); document.body.style.display='block';">
-
+ 
+  <div style="float:right;padding:6px;text-align:right;">
 <div style="width: 100%; overflow: hidden;">
   <div style="float: left;">
     <h1>Lauren Alvis</h1>
     <p>Quantitative Researcher</p>
   </div>
   <div style="float:right;padding:6px;text-align:right;">
-    [![Email](https://img.icons8.com/ios-glyphs/30/new-post.png)](mailto:lauren@example.com) <span style="display: inline-block; vertical-align: top; line-height: 30px;">laurenalvis@gmail.com</span> <br>
-    ![Phone](https://img.icons8.com/ios-glyphs/30/phone--v1.png) <span style="display: inline-block; vertical-align: top; line-height: 30px;">+1 210-573-9328</span> <br>
+     <a href="mailto:lauren@gmail.com"><img src="https://img.icons8.com/ios-glyphs/30/new-post.png" alt="Email" width="35" height="35" style="vertical-align: top;"></a> laurenalvis@gmail.com <br>
+    <img src="https://img.icons8.com/ios-glyphs/30/phone--v1.png" alt="Phone" width="35" height="35"style="vertical-align: top;">+1 210-573-9328<br>
     <a href="https://www.linkedin.com/in/laurenalvis"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="35" height="35" style="vertical-align: top;"></a> <span style="display: inline-block; vertical-align: top; line-height: 30px;">laurenalvis</span>
   </div>
 </div>
